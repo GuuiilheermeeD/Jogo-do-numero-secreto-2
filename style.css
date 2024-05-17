@@ -44,3 +44,12 @@ h3 {
     padding: 10px;
     margin: 20px;
 }
+
+.btn-jogar{
+    margin-top: 40px;
+    padding: 10px 15px;
+    border: 0;
+    background-color: var(--font-color);
+    border-radius: 25px;
+    color: var(--cor-fundo);
+}

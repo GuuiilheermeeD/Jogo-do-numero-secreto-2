@@ -1,5 +1,5 @@
 const menorValor = 1
-const maiorValor = 100
+const maiorValor = 1000
 const numeroSecreto = gerarNumeroAleatorio()
 const elementoMenorValor = document.getElementById('menor-valor')
 const elementoMaiorValor = document.getElementById('maior-valor')
